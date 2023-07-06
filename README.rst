@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Model I Manual
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Introducing the mobile collaborative robot Model I.
 
-Read the tutorial here:
+Read the Manual here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://manual-model-i.readthedocs.io/en/latest/
